@@ -1,0 +1,67 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 10rem;
+}
+.container >div {
+    width: 50%;
+    padding: 30px;
+    margin: 5px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+.border_fruits{
+    border: 10px solid #3496db;
+    border-right-style: double;
+    border-left-style: dashed;
+    border-bottom-color: coral;
+    border-top-color: crimson;
+    background-color: beige;
+    
+}
+.border_months{
+    border: 10px solid #e74c3c;
+    border-right-style: dashed;
+    border-left-style: double;
+    border-bottom-color: blue;
+    border-top-color: blueviolet;
+    background-color: burlywood;
+}
+.border_country{
+    border: 10px solid #3496db;
+    border-right-style: dotted;
+    border-left-style: double; 
+    border-bottom-color: orange;
+    border-top-color: orangered;
+    background-color: antiquewhite;
+}
+.border_animal{
+    border: 10px solid #e74c3c;
+    border-right-style: double;
+    border-left-style: dotted;
+    border-bottom-color: brown;
+    border-top-color: burlywood;
+    background-color: blanchedalmond;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
